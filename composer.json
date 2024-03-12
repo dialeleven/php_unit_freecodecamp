@@ -1,0 +1,19 @@
+{
+    "name": "francis/php_unit_freecodecamp",
+    "description": "FreeCodeCamp.org PHPUnit tutorial",
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Francis\\PhpUnitFreecodecamp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Francis T",
+            "email": "d********n@g****.com"
+        }
+    ],
+    "require": {}
+}

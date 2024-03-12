@@ -1,4 +1,7 @@
 <?php
+/*
+List of PHPUnit Assertions: https://docs.phpunit.de/en/11.0/assertions.html
+*/
 namespace Francis\PhpUnitFreecodecamp;
 
 use PHPUnit\Framework\TestCase;
